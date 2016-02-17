@@ -7,7 +7,7 @@ module Excon
   module Middleware
     module AWS
       class ExponentialBackoff < Excon::Middleware::Base
-        VERSION = "0.0.3"
+        VERSION = "0.0.3.pre"
       end
     end
   end
